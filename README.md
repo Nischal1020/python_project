@@ -1,4 +1,4 @@
-|**Test Case ID**|||||
+||||||
 | :-: | :- | :- | :- | :- |
 |Test Case ID|Software Feature|Steps|Expected||
 |Tc 001|log  in as admin|1\. Launch the application.|The application should be launched successfully.||
