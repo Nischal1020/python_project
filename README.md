@@ -115,5 +115,3 @@
 |Tc 016|View total number of patients per doctor|Firstly, assign doctor to patient as admin||
 |||Than, choose the operation:   7- View patient as per doctor assign|Total number of patients per doctor should be shown|
 
-
-
