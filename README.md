@@ -117,9 +117,3 @@
 
 
 
-|1\. " Login successful " message is displayed 2.  The operation menu is  displayed.
-| - | - | - |
-|Enter the operation (register/view/update/delete) is displayed![]
-|All the Patient's full names and and other details is displayed![]
-|Total number of doctors is shown in index![]
-|Total number of patients per doctor should be shown![]
